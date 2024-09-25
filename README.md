@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @as10log
-- 👀 I’m interested in Data Science and Machine learning.
+- Hi, I’m @as10log
+- I’m interested in Data Science and Machine learning
+- I’m is a Data Scientist in Sber
 - My telegram: @loguntsov_as
 
 
